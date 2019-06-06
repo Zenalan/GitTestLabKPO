@@ -3,6 +3,7 @@
 
 #include "pch.h"
 #include <iostream>
+#include "locale"
 
 int main()
 {
