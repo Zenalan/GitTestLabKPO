@@ -6,9 +6,11 @@
 int main()
 {
 	setlocale(LC_ALL, "Russian");
+	
 	double a = 0;
 	int b = 0;
 	char operation;
+
 	std::cout << "Enter first number: ";
 	std::cin >> a;
 	std::cout << "Enter second number: ";
@@ -31,6 +33,7 @@ int main()
 		break;
 	default:
 		std::cout << "Error\n";
+		
 	}
 	return 0;
 }
