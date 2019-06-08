@@ -33,7 +33,9 @@ int main()
 		break;
 	default:
 		std::cout << "Error\n";
-		
+
+
+		//Duuuude
 	}
 	return 0;
 }
