@@ -33,7 +33,8 @@ int main()
 		break;
 	default:
 		std::cout << "Error\n";
-		
+
+		//Чувааак
 	}
 	return 0;
 }
