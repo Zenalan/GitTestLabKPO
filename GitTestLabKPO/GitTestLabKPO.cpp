@@ -34,8 +34,7 @@ int main()
 	default:
 		std::cout << "Error\n";
 
-
-		//Duuuude
+		//Чувааак
 	}
 	return 0;
 }
